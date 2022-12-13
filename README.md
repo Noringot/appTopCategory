@@ -1,8 +1,8 @@
 # Usage
 - Get information about the position of the application
-- https://tests-for-you.com/api/appTopCategory?date={insert_your_date}
+- http://app-positions.tests-for-you.ru/api/appTopCategory?date={insert_your_date}
 - Get all saved positions
-- https://tests-for-you.com/api/saved_positions
+- http://app-positions.tests-for-you.ru/api/saved_positions
 
 # For local develop
 
