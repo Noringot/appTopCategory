@@ -1,4 +1,4 @@
-## Usage
+# Usage
 - Get information about the position of the application
 - https://tests-for-you.com/api/appTopCategory?date={insert_your_date}
 - Get all saved positions
